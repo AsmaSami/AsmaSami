@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AsmaSami
-- 👀 I’m interested in Project Management 
+- 👋 Hi, I’m Asma Sami
+- 👀 I’m interested in Project Management & Tech Headhunting 
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Projects management 
-- 📫 How to reach me through my emial 
+- 💞️ I’m looking to collaborate on Projects Team Crafting
+- 📫 Reach me through my email 
 - asma.sami8989@gmail.com
 
 <!---
